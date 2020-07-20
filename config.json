@@ -126,7 +126,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 
 </key>
 "},{
-       "id":"2",
+       "id":2,
         "name":"Free Server Kor",
         "file":"
 
@@ -313,9 +313,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
 </key>
-"
-       
-       }
+"}
    
   ]
 }
