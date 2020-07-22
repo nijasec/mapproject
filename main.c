@@ -1,6 +1,6 @@
 int main()
 {
 
-printf("Hello ");
+printf("Hello to mapproject ");
 return 0;
 }
